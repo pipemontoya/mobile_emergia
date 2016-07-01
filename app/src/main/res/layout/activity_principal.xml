@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    tools:context="mobility.com.emergia.Principal">
+
+    <ListView
+        android:id="@+id/lista_rutas_hoy"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="50dp">
+
+    </ListView>
+
+    <Button
+        android:id="@+id/boton_terminar"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:text="@string/cerrar_sesion"
+        android:textSize="20sp"
+        android:textColor="@android:color/white" />
+
+</RelativeLayout>
