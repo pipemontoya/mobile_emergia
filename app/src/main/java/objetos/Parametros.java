@@ -5,7 +5,7 @@ package objetos;
  */
 public class Parametros {
 
-    public static final String URL_SERVIDOR = "http://emergiapp.co/";
+    public static final String URL_SERVIDOR = "http://centermail2.duluti.com.br/";
     public static final String URL_UPLOAD_FOTO = URL_SERVIDOR + "control/route/upload/photo";
     public static final String URL_UPLOAD_JSON = URL_SERVIDOR + "control/route/upload/data";
     public static final String URL_OBTENER_HISTORIAL_RUTAS = URL_SERVIDOR + "vehicle/finished/routes";
