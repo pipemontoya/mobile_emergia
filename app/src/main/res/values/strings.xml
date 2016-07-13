@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Trans milenium</string>
+    <string name="action_settings">Settings</string>
+    <string name="cedula">Cédula</string>
+    <string name="nombres">Nombres</string>
+    <string name="titulo_historial">Historial de Rutas</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="telefono">Télefono</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="terminar">Terminar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="terminar_ruta">Terminar Ruta</string>
+    <string name="historial">Historial</string>
+    <string name="volver">Volver</string>
+    <string name="buscar">Buscar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="email">Email</string>
+    <string name="tomar_foto">Tomar foto</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+
+</resources>
