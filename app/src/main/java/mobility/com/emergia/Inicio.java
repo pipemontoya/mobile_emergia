@@ -47,7 +47,7 @@ public class Inicio extends AppCompatActivity {
         setContentView(R.layout.activity_inicio);
         inicializarObjetos();
         setSupportActionBar(toolbar);
-        toolbar.setTitle("Transmilenium");
+        getSupportActionBar().setTitle("Transmilenium");
         if(usuario.verificarSesion()){
             irAPrincipal();
         }
